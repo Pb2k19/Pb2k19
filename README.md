@@ -44,8 +44,8 @@
 
 ### IDE
 <p align="left">
-<a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="affinity designer" width="40" heigth="40"/> </a>
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="affinity photo" width="40" heigth="40"/> </a>
+<a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="visualstudio" width="40" heigth="40"/> </a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="visualstudiocode" width="40" heigth="40"/> </a>
 </p>
 
 ### Graphics Design
