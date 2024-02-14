@@ -1,13 +1,13 @@
 # Hi, I'm Patryk Bartołd
-<p align="left"> DEV </p>
+<p align="left"> Desktop, Mobile and Web Developer</p>
 
 ## 🛠 Tools That I Use
 ### Languages
 <p align="left" margin-left="15">
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="csharp" width="40" heigth="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" heigth="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" heigth="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" heigth="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" heigth="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" heigth="40"/> </a> 
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pb2k19&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Pb2k19" />
@@ -18,10 +18,10 @@
 <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="blazor" width="40" heigth="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-8.0" target="_blank" rel="noreferrer"> <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/420301iC98A0569F912BC06/image-size/large?v=v2&px=999" alt="maui" width="75" heigth="40"/> </a>
 <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" heigth="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="60" heigth="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="50" heigth="40"/> </a>
 <a href="https://www.mongodb.com/docs/drivers/csharp/current/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb-svgrepo-com.svg" alt="mongodb-driver" width="40" heigth="40"/> </a>
 <a href="https://learn.microsoft.com/pl-pl/ef/core/" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/pl-pl/ef/core/what-is-new/ef-core-8.0/ef8.png" alt="efcore" width="75" heigth="40"/> </a>
-<a href="https://github.com/DapperLib/Dapper" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/1613345/9d4ed380-a8e8-11eb-9f21-c8c87b0f4275" alt="dapper" width="75" heigth="40"/> </a>
+<a href="https://github.com/DapperLib/Dapper" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/1613345/9d4ed380-a8e8-11eb-9f21-c8c87b0f4275" alt="dapper" width="60" heigth="40"/> </a>
 </p>
 
 ### Databases
@@ -32,7 +32,7 @@
 
 ### Game Engines
 <p align="left">
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Unity3D_Logo.jpg" alt="unity" width="100" heigth="40"/> </a> 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Unity3D_Logo.jpg" alt="unity" width="75" heigth="40"/> </a> 
 </p>
 
 ### Version Control & DevOps
@@ -40,6 +40,12 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="40" heigth="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" heigth="40"/> </a>
 <a href="https://azure.microsoft.com/pl-pl/products/devops" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azure" width="40" heigth="40"/> </a> 
+</p>
+
+### IDE
+<p align="left">
+<a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="affinity designer" width="40" heigth="40"/> </a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="affinity photo" width="40" heigth="40"/> </a>
 </p>
 
 ### Graphics Design
