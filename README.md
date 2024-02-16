@@ -57,6 +57,7 @@
 ## Passions and interests
 * 💻 Programming
 * 📷 Photography
+* 🏎️ Motorsport
 * 🎵 Music
 * 🎮 Games
 * 🎞 Movies
