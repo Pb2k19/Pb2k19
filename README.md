@@ -1,6 +1,10 @@
 # Hi, I'm Patryk Bartołd
 <p align="left"> Desktop, Mobile and Web Developer</p>
 
+## My Most Important Proejcts
+* ComputerShop - .NET 6 Blazor web application for computer shop
+* PhotographyTools - .NET MAUI application containing the most important tools useful for every photographer
+
 ## 🛠 Tools That I Use
 ### Languages
 <p align="left" margin-left="15">
