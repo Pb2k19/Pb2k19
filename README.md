@@ -1,9 +1,9 @@
 # Hi, I'm Patryk Bartołd
 <p align="left"> Desktop, Mobile and Web Developer</p>
 
-## My Most Important Proejcts
-* ComputerShop - .NET 6 Blazor web application for computer shop
-* PhotographyTools - .NET MAUI application containing the most important tools useful for every photographer
+## 🗂️ My Most Important Proejcts
+* [ComputerShop](https://github.com/Pb2k19/ComputerShop) - .NET 6 Blazor web application for computer shop
+* [PhotographyTools](https://github.com/Pb2k19/PhotographyTools) - .NET MAUI application containing the most important tools useful for every photographer
 
 ## 🛠 Tools That I Use
 ### Languages
